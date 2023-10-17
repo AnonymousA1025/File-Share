@@ -25,7 +25,7 @@ How to Use this Bot
   ├ /speedtest - To test bot server speed
   └ /broadcast - To send broadcast messages to bot users
 
- 👨‍💻 Developed by @ZenBotX
+ 👨‍💻 Powered by @ZenBotX
 """
 
     close = [
@@ -51,8 +51,8 @@ How to Use this Bot
 
  @{} is a Telegram Bot for saving Posts or Files that can be Accessed via a Special Link.
 
-  • Creator: [ZenBotX](https://t.me/ZenBotX)
+  • Creator: @ZenBotX
   • Framework: Pyrogram
 
- 👨‍💻 Develoved by @NoobZen
+ 👨‍💻 Developed by @NoobZen
 """
